@@ -1,0 +1,1 @@
+name : ismail, age :20, like: money, hate :capitalisme
