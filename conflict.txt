@@ -1,1 +1,1 @@
-This is the first line from main branch.
+This is the resolved line combining both branches. This is the resolved line combining both branches.
