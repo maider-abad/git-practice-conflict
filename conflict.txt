@@ -1,1 +1,1 @@
-This is the resolved line combining both branches. This is the resolved line combining both branches.
+This is the first line from exercise-branch branch.
